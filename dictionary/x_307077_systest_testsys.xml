@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="testsys" max_length="40" name="x_307077_systest_testsys" type="collection">
+        <element label="Sys" max_length="40" name="sys" type="string"/>
+    </element>
+</database>

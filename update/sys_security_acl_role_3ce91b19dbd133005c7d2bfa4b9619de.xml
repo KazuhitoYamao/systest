@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 07:10:10</sys_created_on>
+        <sys_id>3ce91b19dbd133005c7d2bfa4b9619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_307077_systest_testsys.x_307077_systest.testsys_user</sys_name>
+        <sys_package display_value="systest" source="x_307077_systest">26c91755dbd133005c7d2bfa4b961985</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="systest">26c91755dbd133005c7d2bfa4b961985</sys_scope>
+        <sys_security_acl display_value="x_307077_systest_testsys">f0e91b19dbd133005c7d2bfa4b9619dc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3ce91b19dbd133005c7d2bfa4b9619de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 07:10:10</sys_updated_on>
+        <sys_user_role display_value="x_307077_systest.testsys_user" name="x_307077_systest.testsys_user">30e9dfd5dbd133005c7d2bfa4b96191a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
